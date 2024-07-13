@@ -1,0 +1,24 @@
+/*--
+	reset
+--*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { border: none; outline: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; text-decoration: none; margin: 0; padding: 0; }
+table { border-collapse: separate; border-spacing: 0 }
+blockquote:before, blockquote:after, q:before, q:after { content: ""; }
+* { margin: 0; padding: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+html { font-family: sans-serif; line-height: 1.15; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; }
+body { margin: 0; }
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, main { display: block; }
+blockquote, q { quotes: none; }
+img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: bottom; }
+a { text-decoration none; position: relative; color: #000; transition: all ease 0.3s; -webkit-transition: all ease 0.3s; -moz-transition: all ease 0.3s; }
+a:active, a:hover { outline-width: 0; }
+:focus { outline: 0; }
+audio, video, canvas { max-width: 100%; }
+small { font-size: 80%; }
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+sub { bottom: -0.25em; }
+sup { top: -0.5em; }
+.clearfix::after { clear: both; content: ''; display: table; }
+@-o-viewport { width: device-width; }
+@-ms-viewport { width: device-width; }
+@viewport { width: device-width; }
